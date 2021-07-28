@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Upload to FTP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class.ry-ftp.admin-html.php:8
+msgid "Upload to FTP Options"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:20
+#, php-format
+msgid ""
+"Need translators! Please take a moment to <a href=\"%s\">translate on-line</"
+"a>"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:29
+msgid "FTP Status"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:31
+msgid "Upload File Status:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:32
+msgid "Can upload"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:33
+msgid "Can not upload"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:35
+msgid "File Link Status:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:36
+msgid "HTML File Link is OK"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:37
+msgid "HTML File Link is Error"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:39
+msgid "Delete File Status:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:40
+msgid "Can delete"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:41
+msgid "Can not delete"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:43
+msgid "Create Directory Status:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:44
+msgid "Can create"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:45
+msgid "Can not create"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:50
+msgid "FTP Host"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:60
+msgid "FTP Port"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:61
+msgid "FTP Timeout"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:62
+msgid "FTP Username"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:63
+msgid "FTP Password"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:63
+msgid "Only when you want to change your password, enter it."
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:64
+msgid "FTP Directory"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:65
+msgid "HTML link url"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:67
+msgid "Test Status"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:69
+msgid "Connect and Login:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:69 class.ry-ftp.admin-html.php:70
+#: class.ry-ftp.admin-html.php:71 class.ry-ftp.admin-html.php:72
+#: class.ry-ftp.admin-html.php:73
+msgid "Testing"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:69 class.ry-ftp.admin-html.php:70
+#: class.ry-ftp.admin-html.php:71 class.ry-ftp.admin-html.php:72
+#: class.ry-ftp.admin-html.php:73
+msgid "Test Complete"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:70
+msgid "Upload file:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:71
+msgid "HTML link:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:72
+msgid "Delete file:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:73
+msgid "Create directory:"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:77 class.ry-ftp.admin.php:180
+msgid "Save & Test Changes"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:87
+msgid "Rename file"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:90 class.ry-ftp.admin-html.php:100
+msgid "disable"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:91 class.ry-ftp.admin-html.php:101
+msgid "enable"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:93
+msgid ""
+"Proposal enabled! Because the file name to avoid some of the resulting error "
+"can not be expected"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:97
+msgid "Delete Auto build local file"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:103
+msgid "Only enable the when you local storage space have limited."
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:107
+msgid "Save Changes"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:116
+msgid "This setting is ONLY set the mark of the media."
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:117
+msgid "You NEED move the file to you ftp by youself."
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:118
+msgid ""
+"And all the post you had will stile use the file from this webserver until "
+"you reimport the media to the post."
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:120
+msgid "Set Exists File In FTP"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:136
+msgid "Copy this data to another site to run in the same setting."
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:144
+msgid "Paste the data from another site to run in the same setting."
+msgstr ""
+
+#: class.ry-ftp.admin.ajax.php:49
+#, php-format
+msgid "Open directory <strong>%s</strong> failure."
+msgstr ""
+
+#: class.ry-ftp.admin.ajax.php:59
+#, php-format
+msgid "Directory <strong>%s</strong> is not writable."
+msgstr ""
+
+#: class.ry-ftp.admin.ajax.php:86
+msgid "HTML link url don't match FTP dir"
+msgstr ""
+
+#: class.ry-ftp.admin.php:34
+#, php-format
+msgid "Upload to FTP version %s"
+msgstr ""
+
+# Not recommended translation this
+#: class.ry-ftp.admin.php:46
+msgid "Upload to FTP"
+msgstr ""
+
+#: class.ry-ftp.admin.php:51 class.ry-ftp.admin.php:179
+msgid "FTP Options"
+msgstr ""
+
+#: class.ry-ftp.admin.php:54
+msgid "Basic Options"
+msgstr ""
+
+#: class.ry-ftp.admin.php:57
+msgid "Advanced Options"
+msgstr ""
+
+#: class.ry-ftp.admin.php:99
+msgid "to FTP"
+msgstr ""
+
+#: class.ry-ftp.admin.php:116
+msgid "un-upload"
+msgstr ""
+
+#: class.ry-ftp.admin.php:127
+msgid "Updated Basic Options Success"
+msgstr ""
+
+#: class.ry-ftp.admin.php:161
+msgid "Setted file uploaded Success"
+msgstr ""
+
+#: class.ry-ftp.admin.php:176
+msgid "Implort setting Success"
+msgstr ""
+
+#: class.ry-ftp.admin.php:177
+#, php-format
+msgid ""
+"Place goto <a href=\"%1$s\">%2$s</a> and click \"%3$s\" button to check this "
+"setting can work on this site."
+msgstr ""
+
+#: class.ry-ftp.admin.php:190
+msgid "The implort Data is error"
+msgstr ""

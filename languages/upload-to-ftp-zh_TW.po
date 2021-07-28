@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Upload to FTP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-03 21:22+0800\n"
+"PO-Revision-Date: 2017-12-03 21:22+0800\n"
+"Last-Translator: Richer Yang <fantasyworldidvtw@gmail.com>\n"
+"Language-Team: fantasyworldidvtw@gmail.com\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: ;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.ry-ftp.admin-html.php:8
+msgid "Upload to FTP Options"
+msgstr "Upload to FTP 設定"
+
+#: class.ry-ftp.admin-html.php:20
+#, php-format
+msgid ""
+"Need translators! Please take a moment to <a href=\"%s\">translate on-line</"
+"a>"
+msgstr "需要協助進行本地化！請利用些許時間<a href=\"%s\">翻譯譯文</a>"
+
+#: class.ry-ftp.admin-html.php:29
+msgid "FTP Status"
+msgstr "FTP 狀態"
+
+#: class.ry-ftp.admin-html.php:31
+msgid "Upload File Status:"
+msgstr "檔案上傳狀態："
+
+#: class.ry-ftp.admin-html.php:32
+msgid "Can upload"
+msgstr "可以上傳"
+
+#: class.ry-ftp.admin-html.php:33
+msgid "Can not upload"
+msgstr "不能上傳"
+
+#: class.ry-ftp.admin-html.php:35
+msgid "File Link Status:"
+msgstr "檔案連結狀態："
+
+#: class.ry-ftp.admin-html.php:36
+msgid "HTML File Link is OK"
+msgstr "檔案連結正常"
+
+#: class.ry-ftp.admin-html.php:37
+msgid "HTML File Link is Error"
+msgstr "檔案連結錯誤"
+
+#: class.ry-ftp.admin-html.php:39
+msgid "Delete File Status:"
+msgstr "檔案刪除狀態："
+
+#: class.ry-ftp.admin-html.php:40
+msgid "Can delete"
+msgstr "可以刪除"
+
+#: class.ry-ftp.admin-html.php:41
+msgid "Can not delete"
+msgstr "不能刪除"
+
+#: class.ry-ftp.admin-html.php:43
+msgid "Create Directory Status:"
+msgstr "新增目錄狀態："
+
+#: class.ry-ftp.admin-html.php:44
+msgid "Can create"
+msgstr "可以建立"
+
+#: class.ry-ftp.admin-html.php:45
+msgid "Can not create"
+msgstr "不能建立"
+
+#: class.ry-ftp.admin-html.php:50
+msgid "FTP Host"
+msgstr "FTP 主機"
+
+#: class.ry-ftp.admin-html.php:60
+msgid "FTP Port"
+msgstr "FTP 連接埠"
+
+#: class.ry-ftp.admin-html.php:61
+msgid "FTP Timeout"
+msgstr "FTP 連線逾時"
+
+#: class.ry-ftp.admin-html.php:62
+msgid "FTP Username"
+msgstr "FTP 帳號"
+
+#: class.ry-ftp.admin-html.php:63
+msgid "FTP Password"
+msgstr "FTP 密碼"
+
+#: class.ry-ftp.admin-html.php:63
+msgid "Only when you want to change your password, enter it."
+msgstr "只有在您想要變更密碼的時候輸入。"
+
+#: class.ry-ftp.admin-html.php:64
+msgid "FTP Directory"
+msgstr "FTP 目錄"
+
+#: class.ry-ftp.admin-html.php:65
+msgid "HTML link url"
+msgstr "HTML 網址連結"
+
+#: class.ry-ftp.admin-html.php:67
+msgid "Test Status"
+msgstr "測試狀態"
+
+#: class.ry-ftp.admin-html.php:69
+msgid "Connect and Login:"
+msgstr "連線與登入："
+
+#: class.ry-ftp.admin-html.php:69 class.ry-ftp.admin-html.php:70
+#: class.ry-ftp.admin-html.php:71 class.ry-ftp.admin-html.php:72
+#: class.ry-ftp.admin-html.php:73
+msgid "Testing"
+msgstr "測試中"
+
+#: class.ry-ftp.admin-html.php:69 class.ry-ftp.admin-html.php:70
+#: class.ry-ftp.admin-html.php:71 class.ry-ftp.admin-html.php:72
+#: class.ry-ftp.admin-html.php:73
+msgid "Test Complete"
+msgstr "測試完成"
+
+#: class.ry-ftp.admin-html.php:70
+msgid "Upload file:"
+msgstr "上傳檔案："
+
+#: class.ry-ftp.admin-html.php:71
+msgid "HTML link:"
+msgstr "HTML 連結："
+
+#: class.ry-ftp.admin-html.php:72
+msgid "Delete file:"
+msgstr "刪除檔案："
+
+#: class.ry-ftp.admin-html.php:73
+msgid "Create directory:"
+msgstr "新增目錄："
+
+#: class.ry-ftp.admin-html.php:77 class.ry-ftp.admin.php:180
+msgid "Save & Test Changes"
+msgstr "儲存 & 測試 變更"
+
+#: class.ry-ftp.admin-html.php:87
+msgid "Rename file"
+msgstr "檔案重新命名"
+
+#: class.ry-ftp.admin-html.php:90 class.ry-ftp.admin-html.php:100
+msgid "disable"
+msgstr "停用"
+
+#: class.ry-ftp.admin-html.php:91 class.ry-ftp.admin-html.php:101
+msgid "enable"
+msgstr "啟用"
+
+#: class.ry-ftp.admin-html.php:93
+msgid ""
+"Proposal enabled! Because the file name to avoid some of the resulting error "
+"can not be expected"
+msgstr "建議啟用！以避免一些因為檔名而產生的不可預期的錯誤"
+
+#: class.ry-ftp.admin-html.php:97
+msgid "Delete Auto build local file"
+msgstr "刪除自動生成的本地檔案"
+
+#: class.ry-ftp.admin-html.php:103
+msgid "Only enable the when you local storage space have limited."
+msgstr "只有在你本地儲存空間有限制的時候才啟用。"
+
+#: class.ry-ftp.admin-html.php:107
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: class.ry-ftp.admin-html.php:116
+msgid "This setting is ONLY set the mark of the media."
+msgstr "這設定只是將媒體文件進行註記。"
+
+#: class.ry-ftp.admin-html.php:117
+msgid "You NEED move the file to you ftp by youself."
+msgstr "你必須手動的將文件移動到你的 FTP 上。"
+
+#: class.ry-ftp.admin-html.php:118
+msgid ""
+"And all the post you had will stile use the file from this webserver until "
+"you reimport the media to the post."
+msgstr ""
+"而且所有你的文章依然使用本地主機的檔案，直到你重新插入媒體進入文章當中。"
+
+#: class.ry-ftp.admin-html.php:120
+msgid "Set Exists File In FTP"
+msgstr "設定媒體於 FTP 中"
+
+#: class.ry-ftp.admin-html.php:133 class.ry-ftp.admin.php:60
+msgid "Export"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:136
+msgid "Copy this data to another site to run in the same setting."
+msgstr "複製以下的資料到另外一個網站，以使用相同的設定運行。"
+
+#: class.ry-ftp.admin-html.php:140 class.ry-ftp.admin-html.php:145
+#: class.ry-ftp.admin.php:60
+msgid "Import"
+msgstr ""
+
+#: class.ry-ftp.admin-html.php:144
+msgid "Paste the data from another site to run in the same setting."
+msgstr "貼上從另外一個網站取得的資料，以使用相同的設定運行。"
+
+#: class.ry-ftp.admin.ajax.php:49
+#, php-format
+msgid "Open directory <strong>%s</strong> failure."
+msgstr "開啟目錄 <strong>%s</strong> 失敗。"
+
+#: class.ry-ftp.admin.ajax.php:59
+#, php-format
+msgid "Directory <strong>%s</strong> is not writable."
+msgstr "目錄 <strong>%s</strong> 為不可寫住的。"
+
+#: class.ry-ftp.admin.ajax.php:86
+msgid "HTML link url don't match FTP dir"
+msgstr "HTML 網址連結 與 FTP 目錄 不相吻合"
+
+#: class.ry-ftp.admin.php:34
+#, php-format
+msgid "Upload to FTP version %s"
+msgstr "Upload to FTP 版本 %s"
+
+#: class.ry-ftp.admin.php:40
+msgid "Settings"
+msgstr ""
+
+# Not recommended translation this
+#: class.ry-ftp.admin.php:46
+msgid "Upload to FTP"
+msgstr "Upload to FTP"
+
+#: class.ry-ftp.admin.php:51 class.ry-ftp.admin.php:179
+msgid "FTP Options"
+msgstr "FTP 設定"
+
+#: class.ry-ftp.admin.php:54
+msgid "Basic Options"
+msgstr "基本設定"
+
+#: class.ry-ftp.admin.php:57
+msgid "Advanced Options"
+msgstr "進階設定"
+
+#: class.ry-ftp.admin.php:99
+msgid "to FTP"
+msgstr "上傳到 FTP"
+
+#: class.ry-ftp.admin.php:116
+msgid "un-upload"
+msgstr "未上傳"
+
+#: class.ry-ftp.admin.php:127
+msgid "Updated Basic Options Success"
+msgstr "成功的基本更新設定"
+
+#: class.ry-ftp.admin.php:161
+msgid "Setted file uploaded Success"
+msgstr "成功的將媒體設定為已上傳"
+
+#: class.ry-ftp.admin.php:176
+msgid "Implort setting Success"
+msgstr "成功的匯入設定"
+
+#: class.ry-ftp.admin.php:177
+#, php-format
+msgid ""
+"Place goto <a href=\"%1$s\">%2$s</a> and click \"%3$s\" button to check this "
+"setting can work on this site."
+msgstr ""
+"請前往 <a href=\"%1$s\">%2$s</a> 並點擊按鈕 【%3$s】，以確定設定值在本網站也"
+"可以正常的運作。"
+
+#: class.ry-ftp.admin.php:190
+msgid "The implort Data is error"
+msgstr "匯入的資料有誤"
